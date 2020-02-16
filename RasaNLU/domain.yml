@@ -1,0 +1,120 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - mood_neutral
+  - bot_challenge
+  - colour_challenge
+  - weather_challenge
+  - mood_challenge
+  - action_challenge
+  - rebuttal
+  - apoligise
+  - name_challenge
+  - name_response
+
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- utter_favouritecolour
+- utter_weather
+- utter_default
+- utter_mood
+- utter_action
+- utter_rebuttal
+- utter_apology_accepted
+- utter_name
+- action_respond_name
+
+entities:
+  - name
+
+slots:
+  name:
+    type: text
+
+responses:
+  utter_greet:
+  - text: "hey! how are you?"
+  - text: "hi"
+  - text: "howdy"
+  - text: "hello!"
+  - text: "hey there :)"
+
+  utter_cheer_up:
+  - text: "here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "did that help you?"
+
+  utter_happy:
+  - text: "great, carry on!"
+  - text: "awesome :)"
+  - text: "sweet!"
+  - text: "great stuff!"
+
+  utter_goodbye:
+  - text: "bye"
+  - text: "cya"
+  - text: "later"
+  - text: "see you later"
+  - text: "ciao"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_favouritecolour:
+  - text: "I love the colour blue, you?"
+  - text: "blue, you?"
+
+  utter_weather:
+  - text: "the weather's not too bad here."
+  - text: "it's pretty bad here atm"
+  - text: "its a nice day here!"
+
+  utter_mood:
+  - text: "i'm good thanks"
+  - text: "i'm alright"
+  - text: "i'm fine, you?"
+  - text: "not too bad."
+  - text: "fine, thanks"
+
+  utter_action:
+  - text: "not too busy, you?"
+  - text: "it's been a quiet day so far"
+  - text: "it's not too bad at the moment, how about your day?"
+  - text: "very quiet today."
+
+  utter_rebuttal:
+  - text: "okay then, whatever"
+  - text: "fine, be like that"
+  - text: "whatever"
+  - text: "..."
+
+  utter_apology_accepted:
+  - text: "it's all good."
+  - text: "no worries"
+  - text: "no problem"
+
+  utter_name:
+  - text: "my name is Anna, yours?"
+  - text: "i'm called Anna, you?"
+  - text: "Anna, you?"
+
+  utter_name_response:
+  - text: "Hi there {name}, nice to meet you"
+  
+  utter_default:
+  - text: "Sorry?"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

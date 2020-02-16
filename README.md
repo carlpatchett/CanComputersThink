@@ -1,1 +1,1 @@
-# CanComputersThink
+# AI-CCT

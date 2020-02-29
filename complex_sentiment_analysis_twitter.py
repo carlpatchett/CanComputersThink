@@ -4,6 +4,7 @@ import pickle
 import string
 import os
 import os.path
+import uuid
 
 from spacy import displacy
 from spacy.lang.en.stop_words import STOP_WORDS
@@ -16,12 +17,20 @@ from sklearn import datasets
 from joblib import dump, load
 from os import path
 
+version = "1.0.0"
+
+id = uuid.uuid1()
+userID = str(id)
+
 nlp = spacy.load('en_core_web_sm')
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
+experiment_file_path = dir_path + "\\ExperimentResults\\ComplexSentimentAnalysis\\"
+experiment_file = open(experiment_file_path + userID + ".txt","a")
+
 # This should be changed to the local file path of the training dataset.
-data_loc = 'C:\\Users\\carlp\Desktop\\trainingandtestdata\\training.1600000.processed.noemoticon.csv'
+data_loc = 'C:\\Users\\carlp\Desktop\\TrainingData\\trainingandtestdata\\training.1600000.processed.noemoticon.csv'
 
 clf_file_path = dir_path + '\\complex_sentiment_analysis_twitter_clf.joblib'
 vect_file_path = dir_path + '\\complex_sentiment_analysis_twitter_vect.joblib'
@@ -48,6 +57,24 @@ def CheckModelExistence():
     else:
         print('Model doesn\'t exist. Creating new model...')
         CreateModel(vectorizer, clf)
+
+def TestDirectorPresent(present):
+
+    if present == 'Y':
+        experiment_file.write("\nTest Director Present In Room: [TRUE]")
+
+    elif present == 'y':
+        experiment_file.write("\nTest Director Present In Room: [TRUE]")
+
+    elif present == 'N':
+        experiment_file.write("\nTest Director Present In Room: [FALSE]")
+
+    elif present == 'n':
+        experiment_file.write("\nTest Director Present In Room: [FALSE]")
+
+    else:
+        print("\nWill the test director be present in the room during the course of this test? Type 'Y' for yes, otherwise 'N' for no.")
+        TestDirectorPresent(input())
 
 def CreateModel(vectorizer, clf):
     print('Creating DataFrame from CSV...')
@@ -78,26 +105,69 @@ def CreateModel(vectorizer, clf):
     clf = load(clf_file_path)
     vectorizer = load(vect_file_path)
 
-    GetUserInput()
+    GetUserInput(vectorizer, clf)
+
+def GetModelCorrect(correct):
+
+    if correct == 'Y':
+        experiment_file.write("\n" + userID  + " stated sentiment analysis was [CORRECT].")
+
+    elif correct == 'y':
+        experiment_file.write("\n" + userID  + " stated sentiment analysis was [CORRECT].")
+
+    elif correct == 'N':
+        experiment_file.write("\n" + userID  + " stated sentiment analysis was [INCORRECT].")
+
+    elif correct == 'n':
+        experiment_file.write("\n" + userID  + " stated sentiment analysis was [INCORRECT].")
+
+    else:
+        print("\nPlease type 'Y' if the sentiment analysis was correct, otherwise type 'N'.")
+        GetModelCorrect(input())
 
 def GetUserInput(vectorizer, clf):
+
+    inputCount = 0
+
+    experiment_file.write("Complex Sentiment Analysis Starting - Version: " + version)
+    experiment_file.write("\nUser ID: " + userID)
+
+    print("\nWill the test director be present in the room during the course of this test? Type 'Y' for yes, otherwise 'N' for no.")
+
+    TestDirectorPresent(input())
+
     while True:
-        print('##########')
-        print('Awaiting User Input for Testing...')
-        print('##########')
+        print('\n##########')
+        print('Awaiting User Input')
+        print("Type 'Close' to stop the test.")
+        print('##########\n')
 
         doc = nlp(input())
-        X_test  = vectorizer.transform([doc.text])
-        predicted_score = clf.predict(X_test)
+        inputCount += 1
 
-        print('Predicated sentiment score: ' + str(predicted_score))
-        print('##########')
-
-        if (predicted_score == 0):
-            print('Negative Sentiment Detected :(')
-        elif (predicted_score == 2):
-            print('Neutral Sentiment Detected :|')
+        if doc.text == "close":
+            experiment_file.close()
+            exit()
+        elif doc.text == "Close":
+            experiment_file.close()
+            exit()
         else:
-            print('Positive Sentiment Detected :)')
+            experiment_file.write("\n\n" + userID + " Input #" + str(inputCount) + ": " + doc.text)
+
+            X_test  = vectorizer.transform([doc.text])
+            predicted_score = clf.predict(X_test)
+
+            if (predicted_score == 0):
+                print('\nNegative Sentiment Detected')
+                experiment_file.write("\nSentiment Analysis Result for Input #" + str(inputCount) + ": Negative")
+            elif (predicted_score == 2):
+                print('\nNeutral Sentiment Detected')
+                experiment_file.write("\nSentiment Analysis Result for Input #" + str(inputCount) + ": Neutral")
+            else:
+                print('\nPositive Sentiment Detected')
+                experiment_file.write("\nSentiment Analysis Result for Input #" + str(inputCount) + ": Positive")
+
+            print("Was the Sentiment Analysis Model correct? Type 'Y' if it was, or 'N' if it wasn't.")
+            GetModelCorrect(input())
 
 CheckModelExistence()

@@ -1,0 +1,25 @@
+Bot loaded. Type a message and press enter (use '/stop' to exit):
+Your input ->  hello
+2020-03-07 22:10:34.409591: W tensorflow/core/kernels/data/generator_dataset_op.cc:103] Error occurred when finalizing GeneratorDataset iterator: Cancelled: Operation was cancelled
+hey! how are you?
+Your input ->  i am not very well, how are you
+2020-03-07 22:10:52.315030: W tensorflow/core/kernels/data/generator_dataset_op.cc:103] Error occurred when finalizing GeneratorDataset iterator: Cancelled: Operation was cancelled
+awesome :)
+Your input ->  good, have you enjoyed your day
+2020-03-07 22:11:22.655466: W tensorflow/core/kernels/data/generator_dataset_op.cc:103] Error occurred when finalizing GeneratorDataset iterator: Cancelled: Operation was cancelled
+i'm fine, you?
+Your input ->  no im not
+2020-03-07 22:11:38.987476: W tensorflow/core/kernels/data/generator_dataset_op.cc:103] Error occurred when finalizing GeneratorDataset iterator: Cancelled: Operation was cancelled
+whatever
+Your input ->  thats not nice
+2020-03-07 22:11:52.371983: W tensorflow/core/kernels/data/generator_dataset_op.cc:103] Error occurred when finalizing GeneratorDataset iterator: Cancelled: Operation was cancelled
+okay then, whatever
+Your input ->  very rude
+2020-03-07 22:12:02.991734: W tensorflow/core/kernels/data/generator_dataset_op.cc:103] Error occurred when finalizing GeneratorDataset iterator: Cancelled: Operation was cancelled
+whatever
+Your input ->  i am going on holiday
+2020-03-07 22:12:22.278749: W tensorflow/core/kernels/data/generator_dataset_op.cc:103] Error occurred when finalizing GeneratorDataset iterator: Cancelled: Operation was cancelled
+Sorry?
+Your input ->  i am going away
+2020-03-07 22:12:34.052965: W tensorflow/core/kernels/data/generator_dataset_op.cc:103] Error occurred when finalizing GeneratorDataset iterator: Cancelled: Operation was cancelled
+...

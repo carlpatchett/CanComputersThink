@@ -1,0 +1,143 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 424bcf1a-5fe1-11ea-80d3-534e57000000
+Test Director Present In Room: [TRUE]
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #1: I like burgers.
+Sentiment Analysis Result for Input #1: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #2: i would like to go on holiday
+Sentiment Analysis Result for Input #2: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #3: i want to eat tea
+Sentiment Analysis Result for Input #3: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #4: i wish i had a lot of money
+Sentiment Analysis Result for Input #4: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #5: i would like some new clothes
+Sentiment Analysis Result for Input #5: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #6: i would like some new shoes
+Sentiment Analysis Result for Input #6: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #7: i want to lose weight
+Sentiment Analysis Result for Input #7: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #8: i would like to lose weight
+Sentiment Analysis Result for Input #8: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #9: i like to lose weight
+Sentiment Analysis Result for Input #9: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #10: i wish to visit the cinema
+Sentiment Analysis Result for Input #10: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #11: i want to watch a film
+Sentiment Analysis Result for Input #11: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #12: i like to watch films
+Sentiment Analysis Result for Input #12: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #13: i like to go ot for tea
+Sentiment Analysis Result for Input #13: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #14: i love my children
+Sentiment Analysis Result for Input #14: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #15: i love my cat
+Sentiment Analysis Result for Input #15: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #16: i hate politics
+Sentiment Analysis Result for Input #16: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #17: i dont like most vegetables
+Sentiment Analysis Result for Input #17: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #18: i love donuts
+Sentiment Analysis Result for Input #18: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #19: i hate diets
+Sentiment Analysis Result for Input #19: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #20: i love watching films
+Sentiment Analysis Result for Input #20: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #21: i like eighties music
+Sentiment Analysis Result for Input #21: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #22: i dont like heavy metal music
+Sentiment Analysis Result for Input #22: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #23: i like reading east end gang novels
+Sentiment Analysis Result for Input #23: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #24: kimberley chambers is my favourite author
+Sentiment Analysis Result for Input #24: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #25: i also quite like martina cole
+Sentiment Analysis Result for Input #25: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #26: i like netflix
+Sentiment Analysis Result for Input #26: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #27: amazon prime is not as good as netflix
+Sentiment Analysis Result for Input #27: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [INCORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #28: netflix is better than amazon prime
+Sentiment Analysis Result for Input #28: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #29: i love animals
+Sentiment Analysis Result for Input #29: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #30: i love my family
+Sentiment Analysis Result for Input #30: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #31: i dislike sport
+Sentiment Analysis Result for Input #31: Negative
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #32: i quite like rugby
+Sentiment Analysis Result for Input #32: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #33: i like boxing
+Sentiment Analysis Result for Input #33: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #34: i am glad carls tea is nearly ready
+Sentiment Analysis Result for Input #34: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
+
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #35: the greatest showman is brilliant
+Sentiment Analysis Result for Input #35: Positive
+424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].

@@ -1,0 +1,27 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 363694cc-60c2-11ea-a676-534e57000000
+Test Director Present In Room: [TRUE]
+
+363694cc-60c2-11ea-a676-534e57000000 Input #1: last rambo film is fantastic
+Sentiment Analysis Result for Input #1: Positive
+363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].
+
+363694cc-60c2-11ea-a676-534e57000000 Input #2: carl patchett is unwell
+Sentiment Analysis Result for Input #2: Negative
+363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].
+
+363694cc-60c2-11ea-a676-534e57000000 Input #3: man utd are the best team in the world
+Sentiment Analysis Result for Input #3: Positive
+363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].
+
+363694cc-60c2-11ea-a676-534e57000000 Input #4: i love my cats
+Sentiment Analysis Result for Input #4: Positive
+363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].
+
+363694cc-60c2-11ea-a676-534e57000000 Input #5: my back is hurting
+Sentiment Analysis Result for Input #5: Negative
+363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].
+
+363694cc-60c2-11ea-a676-534e57000000 Input #6: human beings are a cancer on this planet and should be wiped off the face of the earth 
+Sentiment Analysis Result for Input #6: Negative
+363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].

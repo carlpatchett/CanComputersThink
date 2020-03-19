@@ -121,6 +121,11 @@
 - do you have a name?
 - what do they call you?
 
+## intent:age_challenge
+- how old are you?
+- whats your age?
+- how long have you existed?
+
 ## intent:name_response
 - im called 
 - my name is 

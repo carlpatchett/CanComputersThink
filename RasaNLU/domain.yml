@@ -11,6 +11,7 @@ intents:
   - weather_challenge
   - mood_challenge
   - action_challenge
+  - age_challenge
   - rebuttal
   - apoligise
   - name_challenge
@@ -32,6 +33,7 @@ actions:
 - utter_apology_accepted
 - utter_name
 - action_respond_name
+- utter_age
 
 entities:
   - name
@@ -114,6 +116,11 @@ responses:
   
   utter_default:
   - text: "Sorry?"
+
+  utter_age:
+  - text: "I'm 26, yourself?"
+  - text: "I am 26 years old."
+  - text: "im 26"
 
 session_config:
   session_expiration_time: 60

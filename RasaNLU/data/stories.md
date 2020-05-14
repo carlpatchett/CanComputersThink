@@ -26,10 +26,6 @@
 * goodbye
   - utter_goodbye
 
-## bot challenge
-* bot_challenge
-  - utter_iamabot
-
 ## colour challenge
 * colour_challenge
   - utter_favouritecolour
@@ -88,6 +84,25 @@
   - action_respond_name
   - utter_name_response
 
-  ## age challenge
-  *age_challenge
+## name response
+* name_response
+  - action_respond_name
+  - utter_name_response
+
+## age challenge
+* age_challenge
   - utter_age
+
+## location challenge
+* location_challenge
+  - utter_location
+
+## inform
+* inform
+  - utter_inform
+* inform_rebuttal
+  - utter_inform_rebuttal
+
+## sentiment challenge
+* sentiment_challenge
+ - utter_sentiment_response

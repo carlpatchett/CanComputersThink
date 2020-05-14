@@ -1,0 +1,18 @@
+Your input ->  hello
+hey! how are you?
+Your input ->  im good thanks, you?
+i'm good thanks
+Your input ->  how old are you?
+im 26
+Your input ->  me too
+I'm 26, yourself?
+Your input ->  im 26 too
+Ah
+Your input ->  why?
+Sorry?
+Your input ->  why do you want to know my age
+I am 26 years old.
+Your input ->  alright then
+I am 26 years old.
+Your input ->  great
+great, carry on!

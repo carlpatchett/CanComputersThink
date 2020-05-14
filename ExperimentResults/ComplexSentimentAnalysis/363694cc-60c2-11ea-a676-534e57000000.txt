@@ -6,7 +6,7 @@ Test Director Present In Room: [TRUE]
 Sentiment Analysis Result for Input #1: Positive
 363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].
 
-363694cc-60c2-11ea-a676-534e57000000 Input #2: carl patchett is unwell
+363694cc-60c2-11ea-a676-534e57000000 Input #2: [CENSORED] is unwell
 Sentiment Analysis Result for Input #2: Negative
 363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].
 
@@ -20,8 +20,4 @@ Sentiment Analysis Result for Input #4: Positive
 
 363694cc-60c2-11ea-a676-534e57000000 Input #5: my back is hurting
 Sentiment Analysis Result for Input #5: Negative
-363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].
-
-363694cc-60c2-11ea-a676-534e57000000 Input #6: human beings are a cancer on this planet and should be wiped off the face of the earth 
-Sentiment Analysis Result for Input #6: Negative
 363694cc-60c2-11ea-a676-534e57000000 stated sentiment analysis was [CORRECT].

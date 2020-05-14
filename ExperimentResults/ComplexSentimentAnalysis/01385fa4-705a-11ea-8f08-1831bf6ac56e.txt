@@ -1,0 +1,43 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 01385fa4-705a-11ea-8f08-1831bf6ac56e
+Test Director Present In Room: [TRUE]
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #1: Theres one in the cupboard
+Sentiment Analysis Result for Input #1: Negative
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #2: I have chips
+Sentiment Analysis Result for Input #2: Negative
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #3: I am happy
+Sentiment Analysis Result for Input #3: Positive
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #4: I am not happy
+Sentiment Analysis Result for Input #4: Positive
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #5: I am awake
+Sentiment Analysis Result for Input #5: Positive
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #6: I am not awake
+Sentiment Analysis Result for Input #6: Negative
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #7: I am definitely not happy
+Sentiment Analysis Result for Input #7: Positive
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #8: I do not love chips
+Sentiment Analysis Result for Input #8: Positive
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #9: I do not like chips
+Sentiment Analysis Result for Input #9: Negative
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+01385fa4-705a-11ea-8f08-1831bf6ac56e Input #10: I really do not like the rain.
+Sentiment Analysis Result for Input #10: Negative
+01385fa4-705a-11ea-8f08-1831bf6ac56e stated sentiment analysis was [CORRECT].

@@ -1,0 +1,11 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 888cd636-9144-11ea-9513-ae152a6979fb
+Test Director Present In Room: [TRUE]
+
+888cd636-9144-11ea-9513-ae152a6979fb Input #1: The weather is nice today.
+Sentiment Analysis Result for Input #1: Positive
+888cd636-9144-11ea-9513-ae152a6979fb stated sentiment analysis was [CORRECT].
+
+888cd636-9144-11ea-9513-ae152a6979fb Input #2: I don't like cheese.
+Sentiment Analysis Result for Input #2: Negative
+888cd636-9144-11ea-9513-ae152a6979fb stated sentiment analysis was [CORRECT].

@@ -134,7 +134,7 @@ Sentiment Analysis Result for Input #32: Positive
 Sentiment Analysis Result for Input #33: Positive
 424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
 
-424bcf1a-5fe1-11ea-80d3-534e57000000 Input #34: i am glad carls tea is nearly ready
+424bcf1a-5fe1-11ea-80d3-534e57000000 Input #34: i am glad [CENSORED] tea is nearly ready
 Sentiment Analysis Result for Input #34: Positive
 424bcf1a-5fe1-11ea-80d3-534e57000000 stated sentiment analysis was [CORRECT].
 

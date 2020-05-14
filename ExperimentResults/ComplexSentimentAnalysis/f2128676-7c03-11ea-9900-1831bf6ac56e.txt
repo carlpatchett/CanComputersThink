@@ -1,0 +1,15 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: f2128676-7c03-11ea-9900-1831bf6ac56e
+Test Director Present In Room: [TRUE]
+
+f2128676-7c03-11ea-9900-1831bf6ac56e Input #1: I like dogs
+Sentiment Analysis Result for Input #1: Positive
+f2128676-7c03-11ea-9900-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+f2128676-7c03-11ea-9900-1831bf6ac56e Input #2: The sun is nice
+Sentiment Analysis Result for Input #2: Positive
+f2128676-7c03-11ea-9900-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+f2128676-7c03-11ea-9900-1831bf6ac56e Input #3: I dont want to
+Sentiment Analysis Result for Input #3: Negative
+f2128676-7c03-11ea-9900-1831bf6ac56e stated sentiment analysis was [CORRECT].

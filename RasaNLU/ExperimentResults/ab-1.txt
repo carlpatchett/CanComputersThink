@@ -1,0 +1,8 @@
+Your input ->  hi
+hey there :)
+Your input ->  hello
+howdy
+Your input ->  are we going to carry on doing this
+sweet!
+Your input ->  ?
+Sorry?

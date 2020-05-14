@@ -1,0 +1,43 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 5d6de1c0-7053-11ea-8638-1831bf6ac56e
+Test Director Present In Room: [TRUE]
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #1: that annoys me.
+Sentiment Analysis Result for Input #1: Negative
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #2: i don't know how
+Sentiment Analysis Result for Input #2: Negative
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #3: I absolutely did
+Sentiment Analysis Result for Input #3: Positive
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #4: I absolutely didnt
+Sentiment Analysis Result for Input #4: Negative
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #5: Sorry
+Sentiment Analysis Result for Input #5: Negative
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #6: maybe
+Sentiment Analysis Result for Input #6: Positive
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #7: that towel is wet
+Sentiment Analysis Result for Input #7: Negative
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #8: oh sure
+Sentiment Analysis Result for Input #8: Positive
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #9: nah
+Sentiment Analysis Result for Input #9: Positive
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+5d6de1c0-7053-11ea-8638-1831bf6ac56e Input #10: probably not
+Sentiment Analysis Result for Input #10: Negative
+5d6de1c0-7053-11ea-8638-1831bf6ac56e stated sentiment analysis was [CORRECT].

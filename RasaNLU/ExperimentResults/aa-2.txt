@@ -1,0 +1,17 @@
+Bot loaded. Type a message and press enter (use '/stop' to exit):
+Your input ->  hello
+hey! how are you?
+Your input ->  i am not very well, how are you
+awesome :)
+Your input ->  good, have you enjoyed your day
+i'm fine, you?
+Your input ->  no im not
+whatever
+Your input ->  thats not nice
+okay then, whatever
+Your input ->  very rude
+whatever
+Your input ->  i am going on holiday
+Sorry?
+Your input ->  i am going away
+...

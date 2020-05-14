@@ -16,6 +16,9 @@ intents:
   - apoligise
   - name_challenge
   - name_response
+  - location_challenge
+  - inform
+  - sentiment_challenge
 
 actions:
 - utter_greet
@@ -34,6 +37,10 @@ actions:
 - utter_name
 - action_respond_name
 - utter_age
+- utter_location
+- utter_inform
+- utter_inform_rebuttal
+- utter_sentiment_response
 
 entities:
   - name
@@ -121,6 +128,32 @@ responses:
   - text: "I'm 26, yourself?"
   - text: "I am 26 years old."
   - text: "im 26"
+
+  utter_location:
+  - text: "I live in Paris."
+  - text: "i live in paris"
+  - text: "I'm from france"
+  - text: "Je suis francais :)"
+
+  utter_inform:
+  - text: "Oh, why's that?"
+  - text: "why?"
+  - text: "huh, why?"
+  - text: "Oh, I see"
+  - text: "that's odd, why?"
+  - text: "Do you usually feel that way?"
+
+  utter_inform_rebuttal:
+  - text: "Ah"
+  - text: "Oh"
+  - text: "I see"
+
+  utter_sentiment_response:
+  - text: "Sometimes."
+  - text: "Maybe..."
+  - text: "Who knows :)"
+  - text: "Occasionally"
+  - text: "I sometimes do"
 
 session_config:
   session_expiration_time: 60

@@ -1,0 +1,35 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 91f85a6e-7059-11ea-80ae-1831bf6ac56e
+Test Director Present In Room: [TRUE]
+
+91f85a6e-7059-11ea-80ae-1831bf6ac56e Input #1: i love food
+Sentiment Analysis Result for Input #1: Positive
+91f85a6e-7059-11ea-80ae-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+91f85a6e-7059-11ea-80ae-1831bf6ac56e Input #2: i hate food
+Sentiment Analysis Result for Input #2: Negative
+91f85a6e-7059-11ea-80ae-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+91f85a6e-7059-11ea-80ae-1831bf6ac56e Input #3: i wanted more
+Sentiment Analysis Result for Input #3: Negative
+91f85a6e-7059-11ea-80ae-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+91f85a6e-7059-11ea-80ae-1831bf6ac56e Input #4: i wish i could swim
+Sentiment Analysis Result for Input #4: Negative
+91f85a6e-7059-11ea-80ae-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+91f85a6e-7059-11ea-80ae-1831bf6ac56e Input #5: i'd love to eat some food
+Sentiment Analysis Result for Input #5: Positive
+91f85a6e-7059-11ea-80ae-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+91f85a6e-7059-11ea-80ae-1831bf6ac56e Input #6: i dont know
+Sentiment Analysis Result for Input #6: Negative
+91f85a6e-7059-11ea-80ae-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+91f85a6e-7059-11ea-80ae-1831bf6ac56e Input #7: dogs are cool
+Sentiment Analysis Result for Input #7: Positive
+91f85a6e-7059-11ea-80ae-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+91f85a6e-7059-11ea-80ae-1831bf6ac56e Input #8: cats are alright
+Sentiment Analysis Result for Input #8: Positive
+91f85a6e-7059-11ea-80ae-1831bf6ac56e stated sentiment analysis was [CORRECT].

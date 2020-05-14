@@ -1,0 +1,7 @@
+Bot loaded. Type a message and press enter (use '/stop' to exit):                                                                                                                    
+Your input ->  i just watched rambo last blood                                                                                                                                       
+I am a bot, powered by Rasa.                                                                                                                                                         
+Your input ->  i had a pizza for supper                                                                                                                                              
+great stuff!                                                                                                                                                                         
+Your input ->  do you like pizza                                                                                                                                                     
+Sorry?                                                                                                                                                                               

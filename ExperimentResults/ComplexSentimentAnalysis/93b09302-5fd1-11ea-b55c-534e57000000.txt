@@ -1,2 +1,0 @@
-Complex Sentiment Analysis Starting - Version: 1.0.0
-User ID: 93b09302-5fd1-11ea-b55c-534e57000000

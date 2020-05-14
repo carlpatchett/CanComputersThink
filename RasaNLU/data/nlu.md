@@ -70,12 +70,6 @@
 - fine i guess
 - alright, i suppose
 
-## intent:bot_challenge
-- are you a bot?
-- are you a human?
-- am I talking to a bot?
-- am I talking to a human?
-
 ## intent:colour_challenge
 - what's your favorite colour?
 - whats your favorite color?
@@ -121,6 +115,12 @@
 - do you have a name?
 - what do they call you?
 
+## intent:location_challenge
+- where do you live?
+- where are you from?
+- where we're your born?
+- where do you come from?
+
 ## intent:age_challenge
 - how old are you?
 - whats your age?
@@ -130,3 +130,26 @@
 - im called 
 - my name is 
 - i'm
+
+## intent:inform
+- i am
+- i will
+- i would like
+- I'd like
+- I'd love
+- I want
+- I need
+
+## intent:inform_rebuttal
+- because
+- it is
+- they are
+- we are
+- it just
+
+## intent:sentiment_challenge
+- do you like
+- do you love
+- do you hate
+- do you want
+- do you need

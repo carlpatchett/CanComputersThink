@@ -1,0 +1,39 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 49c508fe-7c05-11ea-ba4b-1831bf6ac56e
+Test Director Present In Room: [TRUE]
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #1: twenty is a good age
+Sentiment Analysis Result for Input #1: Positive
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #2: i dont like being old
+Sentiment Analysis Result for Input #2: Negative
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #3: the wizard of oz is a great film
+Sentiment Analysis Result for Input #3: Positive
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #4: dont do that
+Sentiment Analysis Result for Input #4: Negative
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #5: why are you asking me?
+Sentiment Analysis Result for Input #5: Negative
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #6: contact lenses are annoying
+Sentiment Analysis Result for Input #6: Negative
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #7: energy drinks are cool
+Sentiment Analysis Result for Input #7: Positive
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #8: every cloud has a silver lining
+Sentiment Analysis Result for Input #8: Positive
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e Input #9: chap stick costs too much money
+Sentiment Analysis Result for Input #9: Negative
+49c508fe-7c05-11ea-ba4b-1831bf6ac56e stated sentiment analysis was [CORRECT].

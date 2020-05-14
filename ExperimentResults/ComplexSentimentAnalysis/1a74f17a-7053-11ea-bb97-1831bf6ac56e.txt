@@ -1,0 +1,31 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 1a74f17a-7053-11ea-bb97-1831bf6ac56e
+Test Director Present In Room: [TRUE]
+
+1a74f17a-7053-11ea-bb97-1831bf6ac56e Input #1: These shoes are comfortable.
+Sentiment Analysis Result for Input #1: Positive
+1a74f17a-7053-11ea-bb97-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+1a74f17a-7053-11ea-bb97-1831bf6ac56e Input #2: I like fruit.
+Sentiment Analysis Result for Input #2: Positive
+1a74f17a-7053-11ea-bb97-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+1a74f17a-7053-11ea-bb97-1831bf6ac56e Input #3: That's not enough.
+Sentiment Analysis Result for Input #3: Negative
+1a74f17a-7053-11ea-bb97-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+1a74f17a-7053-11ea-bb97-1831bf6ac56e Input #4: My back hurts.
+Sentiment Analysis Result for Input #4: Negative
+1a74f17a-7053-11ea-bb97-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+1a74f17a-7053-11ea-bb97-1831bf6ac56e Input #5: That's not wrong.
+Sentiment Analysis Result for Input #5: Negative
+1a74f17a-7053-11ea-bb97-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+1a74f17a-7053-11ea-bb97-1831bf6ac56e Input #6: I almost did.
+Sentiment Analysis Result for Input #6: Positive
+1a74f17a-7053-11ea-bb97-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+1a74f17a-7053-11ea-bb97-1831bf6ac56e Input #7: I almost didn't.
+Sentiment Analysis Result for Input #7: Negative
+1a74f17a-7053-11ea-bb97-1831bf6ac56e stated sentiment analysis was [CORRECT].

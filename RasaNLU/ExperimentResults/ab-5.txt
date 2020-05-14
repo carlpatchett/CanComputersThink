@@ -1,0 +1,25 @@
+Your input ->  whats your name
+my name is Anna, yours?
+Your input ->  my name is [CENSORED]
+Hi there [CENSORED] nice to meet you
+Your input ->  what is you job?
+my name is Anna, yours?
+Your input ->  what is your job?
+Hi there [CENSORED], nice to meet you
+Your input ->  where do you live?
+Your input ->  its nice here
+Sorry?
+Your input ->  the weather is nice here
+its a nice day here!
+Your input ->  cool
+Sorry?
+Your input ->  it is a nice day here too
+Sorry?
+Your input ->  you dont understand much do you?
+Sorry?
+Your input ->  haha
+Sorry?
+Your input ->  sorry
+no problem
+Your input ->  did you want me to say sorry?
+no problem

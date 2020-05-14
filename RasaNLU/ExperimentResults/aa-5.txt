@@ -1,0 +1,48 @@
+Bot loaded. Type a message and press enter (use '/stop' to exit):
+Your input ->  i am 52
+I am a bot, powered by Rasa.
+Your input ->  how are you
+i'm alright
+Your input ->  how old are you
+i'm good thanks
+Your input ->  i like chinese food
+awesome :)
+Your input ->  do you like chinese food
+not too bad.
+Your input ->  i am tired
+great, carry on!
+Your input ->  i am going to bed
+Sorry?
+Your input ->  my name is [CENSORED]
+cya
+Your input ->  what is your name
+i'm called Anna, you?
+Your input ->  [CENSORED]
+Sorry?
+Your input ->  my name is [CENSORED]
+Your input ->  are you confused
+Sorry?
+Your input ->  i am watching the news
+Sorry?
+Your input ->  i am taking a test
+great stuff!
+Your input ->  what is your favourite colour
+blue, you?
+Your input ->  green
+fine, be like that
+Your input ->  i would like a nice rest
+fine, be like that
+Your input ->  how old are you
+fine, thanks
+Your input ->  i live in [CENSORED]
+...
+Your input ->  where do you live
+Sorry?
+Your input ->  are you happy
+not too bad.
+Your input ->  i live in [CENSORED]
+...
+Your input ->  where do you live
+Sorry?
+Your input ->  are you happy
+not too bad.

@@ -1,0 +1,47 @@
+Complex Sentiment Analysis Starting - Version: 1.0.0
+User ID: 8839c280-705a-11ea-90d8-1831bf6ac56e
+Test Director Present In Room: [TRUE]
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #1: its absolutely terrible
+Sentiment Analysis Result for Input #1: Negative
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #2: i like the greatest showman
+Sentiment Analysis Result for Input #2: Positive
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #3: how many times must I tell you
+Sentiment Analysis Result for Input #3: Positive
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #4: there's not enough left
+Sentiment Analysis Result for Input #4: Negative
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #5: there shouldnt be a problem with that
+Sentiment Analysis Result for Input #5: Positive
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #6: how do you expect me to do that
+Sentiment Analysis Result for Input #6: Positive
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #7: what the hell
+Sentiment Analysis Result for Input #7: Positive
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #8: this year has been trying
+Sentiment Analysis Result for Input #8: Negative
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #9: i dont know
+Sentiment Analysis Result for Input #9: Negative
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [CORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #10: how long do i have to wait
+Sentiment Analysis Result for Input #10: Positive
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [INCORRECT].
+
+8839c280-705a-11ea-90d8-1831bf6ac56e Input #11: can you help me
+Sentiment Analysis Result for Input #11: Negative
+8839c280-705a-11ea-90d8-1831bf6ac56e stated sentiment analysis was [INCORRECT].
